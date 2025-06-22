@@ -1,0 +1,16 @@
+/* 明暗切换 */
+#web_bg {
+    transition: background-image 0.5s ease-in-out !important;
+}
+
+/* 由黑夜切换为白天的时间会长一点 */
+@media (prefers-color-scheme: dark) {
+    #web_bg {
+        transition-duration: 0.8s !important;
+    }
+}
+
+
+  
+
+
