@@ -2,6 +2,8 @@
 title: MyBatis配置过程和基本用法
 date: 2025-05-14 19:34:18
 index_img: https://s21.ax1x.com/2025/05/20/pExQR6x.jpg
+tags:
+  - 数据库
 categories: MyBatis
 --- 
 

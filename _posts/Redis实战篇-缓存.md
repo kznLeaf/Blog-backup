@@ -2,7 +2,7 @@
 title: Redis-实现缓存机制
 tags:
   - Redis
-  - 后端
+  - 中间件
 date: 2025-06-29 23:13:11
 index_img:
 categories: Redis

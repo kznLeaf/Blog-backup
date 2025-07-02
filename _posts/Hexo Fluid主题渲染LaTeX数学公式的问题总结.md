@@ -2,6 +2,8 @@
 title: Hexo Fluid主题渲染LaTeX数学公式的问题总结
 date: 2024-09-15 14:24:59
 index_img:
+  - Hexo
+  - Fluid
 categories: Hexo
 math: true
 ---

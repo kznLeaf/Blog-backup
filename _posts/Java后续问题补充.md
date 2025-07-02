@@ -2,6 +2,9 @@
 title: 算法-Java常用API
 date: 2025-05-08 20:12:15
 index_img:
+tags:
+  - 数据结构与算法
+  - java
 categories: Algorithm
 math: true
 ---

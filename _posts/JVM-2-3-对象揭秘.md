@@ -2,6 +2,9 @@
 title: JVM-Java虚拟机中的对象
 date: 2025-06-01 23:27:55
 index_img:
+tags:
+  - Java
+  - JVM
 categories: JVM
 ---
 

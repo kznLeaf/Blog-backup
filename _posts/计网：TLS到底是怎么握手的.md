@@ -2,12 +2,14 @@
 title: 计网：TLS到底是怎么握手的
 date: 2025-06-06 22:48:20
 index_img:
+tags:
+  - 计网
 categories: Computer Networking
 hide: true
 ---
 
 
-HTTPS学习记录。看到 TLS 协议握手过程的时候发现Chatgpt给出的回答和往常最常见的说法不一样，遂翻阅了 RFC 8446 和英文wiki，最后得到了还算满意的结论。
+HTTPS学习记录。翻阅了 RFC 8446 和英文wiki，最后得到了还算满意的结论。
 
 ## 对称加密算法
 

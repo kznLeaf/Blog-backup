@@ -2,6 +2,8 @@
 title: MyBatis-结果映射（resultMap）详解
 date: 2025-05-18 22:32:05
 index_img:
+tags:
+  - 数据库
 categories: MyBatis
 ---
 

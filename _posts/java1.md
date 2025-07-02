@@ -1,7 +1,9 @@
 ---
-title: Java SE(1) 基本常识
+title: Java SE-基本常识
 date: 2025-03-22 16:18:54
 index_img:
+tags:
+  - Java
 categories: Java SE
 math: true 
 ---

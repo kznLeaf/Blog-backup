@@ -1,7 +1,9 @@
 ---
-title: Java SE(6)常用类与基础API
+title: Java SE-常用类与基础API
 date: 2025-04-08 12:34:28
 index_img:
+tags:
+  - Java
 categories: Java SE
 ---
 

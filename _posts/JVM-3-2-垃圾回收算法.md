@@ -2,6 +2,9 @@
 title: JVM-3.2-垃圾回收算法
 date: 2025-06-02 23:50:14
 index_img: https://s21.ax1x.com/2025/06/11/pVkddYD.webp
+tags:
+  - Java
+  - JVM
 categories: JVM
 ---
 

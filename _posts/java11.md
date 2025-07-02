@@ -1,7 +1,9 @@
 ---
-title: Java SE-Stream API详解 by AlbertShen
+title: Java SE-Stream API详解
 date: 2025-04-18 18:08:36
 index_img:
+tags:
+  - Java
 categories: Java SE
 ---
 

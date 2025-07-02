@@ -2,6 +2,10 @@
 title: Hexo + Fluid博客美化记录
 date: 2025-04-20 13:04:51
 index_img:
+tags:
+  - Hexo
+  - Fluid
+  - 折腾记录
 categories: Theme
 ---
 简单的博客美化记录

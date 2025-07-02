@@ -2,6 +2,8 @@
 title: Maven的基本操作
 date: 2025-04-27 18:45:37
 index_img: https://s21.ax1x.com/2025/04/29/pE7s3Pe.jpg
+tags:
+  - 工具
 categories: Web Development
 ---
 

@@ -2,6 +2,9 @@
 title: JVM-经典垃圾收集器
 date: 2025-06-14 00:53:10
 index_img:
+tags:
+  - Java
+  - JVM
 categories: JVM
 ---
 

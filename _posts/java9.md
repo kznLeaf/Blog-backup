@@ -1,8 +1,11 @@
 ---
-title: Java集合底层源码
+title: Java-ArrayList源码简析
 date: 2025-04-12 19:59:07
 index_img:
 categories: Java SE
+tags:
+  - Java
+  - 源码剖析
 ---
 
 # ArrayList

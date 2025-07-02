@@ -2,6 +2,8 @@
 title: MyBatis-缓存
 date: 2025-05-20 13:32:42
 index_img:
+tags:
+  - 数据库
 categories: MyBatis
 ---
 

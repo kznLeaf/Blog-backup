@@ -2,6 +2,9 @@
 title: Cloudflare配置将博客旧域名的请求重定向到新域名
 date: 2025-05-30 23:07:40
 index_img: https://s21.ax1x.com/2025/05/30/pV9ZSaQ.jpg
+tags:
+  - Cloudflare
+  - 折腾记录
 categories: Cloudflare
 ---
 

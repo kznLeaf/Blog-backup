@@ -3,6 +3,8 @@ title: Java SE(8)-泛型
 date: 2025-04-12 14:29:26
 index_img:
 categories: Java SE
+tags:
+  - Java
 ---
 
 修改历史：

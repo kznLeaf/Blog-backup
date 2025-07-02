@@ -2,6 +2,9 @@
 title: 安装ArchLinux虚拟机过程记录
 date: 2025-06-25 23:13:24
 index_img: https://s21.ax1x.com/2025/06/25/pVeqly8.png
+tags:
+  - 折腾记录
+  - Linux
 categories: Linux
 ---
 

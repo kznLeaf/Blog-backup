@@ -1,5 +1,5 @@
 ---
-title: Java SE(4) 面向对象-高级
+title: Java SE-面向对象-高级
 date: 2025-04-01 15:16:48
 index_img:
 categories: Java SE

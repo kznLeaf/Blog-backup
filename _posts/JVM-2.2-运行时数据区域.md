@@ -2,6 +2,9 @@
 title: JVM：运行时数据区域简析
 date: 2025-05-31 23:02:45
 index_img:
+tags:
+  - JVM
+  - Java
 categories: JVM
 ---
 

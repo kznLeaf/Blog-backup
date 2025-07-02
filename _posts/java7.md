@@ -1,7 +1,9 @@
 ---
-title: Java SE(7)-集合框架
+title: Java SE-集合框架知识梳理
 date: 2025-04-10 14:59:38
 index_img:
+tags:
+  - Java
 categories: Java SE
 ---
 

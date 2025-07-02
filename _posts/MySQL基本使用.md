@@ -2,6 +2,8 @@
 title: MySQL基本使用
 date: 2025-05-06 10:32:23
 index_img:
+tags:
+  - 数据库
 categories: Database
 --- 
 
