@@ -59,3 +59,4 @@ document.addEventListener('DOMContentLoaded', function() {
  $(window).on('load', function() {
   $("#Loadanimation").fadeOut(700);
 });
+

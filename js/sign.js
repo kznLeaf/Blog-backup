@@ -10,3 +10,4 @@ navbarBrand.addEventListener('click', function() {
   window.location.href = 'https://kznleaf.top';
 });
 
+
