@@ -4,7 +4,7 @@ date: 2025-05-08 20:12:15
 index_img:
 tags:
   - 数据结构与算法
-  - java
+  - Java
 categories: Algorithm
 math: true
 ---
