@@ -5,7 +5,7 @@ tags:
   - Linux
 date: 2025-07-29 23:20:02
 index_img: https://s21.ax1x.com/2025/07/29/pVYRJVf.png
-categories: 
+categories: Linux
 ---
 
 I use arch btw  
