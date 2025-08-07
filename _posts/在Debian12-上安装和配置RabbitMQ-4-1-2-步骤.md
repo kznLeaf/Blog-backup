@@ -1,7 +1,8 @@
 ---
-title: Debian12 安装 RabbitMQ 4.1.2 详细步骤
+title: Debian12 虚拟机安装 RabbitMQ 4.1.2 详细步骤
 tags:
   - Linux
+  - 中间件
 date: 2025-08-02 19:44:27
 index_img: https://s21.ax1x.com/2025/08/02/pVNybTO.png
 categories:
@@ -13,7 +14,7 @@ categories:
 
 ### curl
 
-下一步要用curl直接拉拉取安装脚本，所以要确保curl已经安装完成
+下一步要用curl直接拉取安装脚本，所以要确保curl已经安装完成
 
 ```bash
 sudo apt update
@@ -29,7 +30,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master
 
 ### v2rayA
 
-https://github.com/v2rayA/v2rayA/releases  先用能够访问 github 的宿主机在这里下载`installer_debian_x64_2.2.6.7.deb`，然后拖到虚拟机内的目录下执行
+先用能够访问 github 的宿主机在[这里](https://github.com/v2rayA/v2rayA/releases)下载`installer_debian_x64_2.2.6.7.deb`，然后拖到虚拟机内的目录下执行
 
 ```bash
 sudo apt install ./installer_debian_x64_2.2.6.7.deb
