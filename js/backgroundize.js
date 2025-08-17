@@ -2,7 +2,7 @@
  * 预加载背景图片
  */
 function preloadBackgroundImages() {
-    const images = ['/img/night.webp', '/img/about.webp', 'icon.svg'];
+    const images = ['/img/night.webp', '/img/about.webp'];
     
     images.forEach(src => {
         const img = new Image();

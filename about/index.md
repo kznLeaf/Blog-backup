@@ -11,24 +11,23 @@ layout: about
 
 ## Welcome
 
-本站目前使用 Hexo 框架生成页面文件，通过 Git 部署到 GitHub Pages，由 Cloudflare 提供 DNS 解析服务。
+本站没有备案，国内访问速度不稳定，建议挂上代理访问！
+
+本站使用 Hexo 框架生成页面文件，通过 Git 部署到 GitHub Pages，由 Cloudflare 提供 DNS 解析服务。
 
 本站魔改自 Hexo Fluid 主题，没有针对移动端做专门的优化，推荐使用 PC 访问。
 
-如果遇到老文章图片无法加载的情况，可能是因为图片托管到了 imgur ，请自行挂上代理。
-
 ## About me
 
-电子信息相关专业，边缘人物。最大的愿望是去一个人少且安静的地方一个人过八小时双休的正常生活。
-
-曾经学了一年半的硬件，现已决定转码。恶补Java技术栈中。
-
-如有任何问题，欢迎联系：kizunaleaf@outlook.com
+- 电子相关专业大三
+- 英语CET-6，日语N2
+- 一年半硬件学习经历，已转Java
+- 联系邮箱：kizunaleaf@outlook.com
 
 ##  Timeline
 
 - **2024-09-15** 创建博客 
-- **2025-01-21** 更新域名为kznep19.blog
+- **2025-01-21** 更换域名为kznep19.blog
 - **2025-04-20** 迁移图床至imgse.com
 - **2025-06-27** 更换域名为kznleaf.site
 
