@@ -6,7 +6,7 @@ navbarBrand.innerHTML = `
 `;
 
 navbarBrand.addEventListener('click', function() {
-  window.location.href = 'https://kznleaf.site';
+  window.location.href = 'https://kznleaf.top';
 }); */
 
 
@@ -36,7 +36,7 @@ fetch('/img/icon.svg')
       // 添加点击事件监听器
       navbarBrand.addEventListener('click', function(e) {
         e.preventDefault(); // 防止默认的链接行为
-        window.location.href = 'https://kznleaf.site';
+        window.location.href = 'https://kznleaf.top';
       });
     }
   })
