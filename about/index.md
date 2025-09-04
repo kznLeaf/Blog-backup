@@ -11,17 +11,17 @@ layout: about
 
 ## Welcome
 
-本站没有备案，国内访问速度不稳定，建议挂上代理访问！
+本站没有在中国大陆地区备案，访问速度不稳定，建议挂上代理访问。
 
 本站使用 Hexo 框架生成页面文件，通过 Git 部署到 GitHub Pages，由 Cloudflare 提供 DNS 解析服务。
 
-本站魔改自 Hexo Fluid 主题，没有针对移动端做专门的优化，推荐使用 PC 访问。
+本站魔改自 Hexo Fluid 主题，推荐使用 PC 访问。
 
 ## About me
 
 - 电子相关专业大三
 - 英语CET-6，日语N2
-- 一年半硬件学习经历，已转Java
+- 一年硬件学习经历，已转Java
 - 联系邮箱：kizunaleaf@outlook.com
 
 ##  Timeline

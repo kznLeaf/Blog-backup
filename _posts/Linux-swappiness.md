@@ -4,7 +4,7 @@ tags:
   - Linux
   - 操作系统
 date: 2025-08-28 22:01:35
-index_img:
+index_img: https://s21.ax1x.com/2025/08/30/pVcGtgJ.png
 categories: Linux
 ---
 
