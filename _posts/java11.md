@@ -1,7 +1,7 @@
 ---
 title: Java SE-Stream API详解
 date: 2025-04-18 18:08:36
-index_img:
+index_img: https://i.imgur.com/Yk5xhTe.png
 tags:
   - Java
 categories: Java SE

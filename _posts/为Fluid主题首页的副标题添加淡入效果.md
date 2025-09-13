@@ -2,6 +2,7 @@
 title: 为Fluid主题首页的副标题添加淡入效果
 date: 2024-10-04 21:14:36
 index_img:
+tags:
   - Hexo
   - Fluid
   - 折腾记录
